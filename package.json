@@ -1,0 +1,29 @@
+{
+  "name": "foodapp",
+  "version": "1.0.0",
+  "description": "This is Food App Project",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MananMakwana/FoodApp.git"
+  },
+  "author": "Manan Makwana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MananMakwana/FoodApp/issues"
+  },
+  "homepage": "https://github.com/MananMakwana/FoodApp#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
